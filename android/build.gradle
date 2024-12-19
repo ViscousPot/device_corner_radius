@@ -25,6 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'devflowstud.io.device_corner_radius'
     compileSdkVersion 31
 
     compileOptions {
