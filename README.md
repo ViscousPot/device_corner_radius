@@ -1,3 +1,20 @@
+# Repository Notice
+
+## Important Information
+
+This repository does not contain code authored by me. The original code belongs to its respective creator(s). 
+
+### Changes Made
+The only modification I have made is adding a **namespace** to the `android/build.gradle` file. No other changes have been implemented.
+
+### Disclaimer
+Please refer to the original repository or codebase for any further details, attributions, or inquiries regarding the code. I am not responsible for maintaining or updating the original functionality of this code.
+
+Thank you for your understanding.
+
+---
+---
+
 # Device Corner Radius
 
 This plugin uses native APIs to get the corner radius of the device.
